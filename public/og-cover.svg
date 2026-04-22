@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">AcquireVista social preview</title>
+  <desc id="desc">AcquireVista helps outbound teams generate qualified conversations, booked appointments, and stronger pipeline performance.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#081b29" />
+      <stop offset="55%" stop-color="#102e42" />
+      <stop offset="100%" stop-color="#c65e2c" />
+    </linearGradient>
+    <radialGradient id="halo" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#f7f1e8" stop-opacity="0.2" />
+      <stop offset="100%" stop-color="#f7f1e8" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="875" cy="208" r="220" fill="url(#halo)" />
+  <g fill="none" stroke="#f7f1e8" stroke-opacity="0.3">
+    <path d="M130 490c135-60 218-145 315-145 111 0 171 70 302 70 85 0 174-33 323-133" stroke-width="2" />
+    <path d="M124 411c124-31 207-109 330-109 123 0 196 84 294 84 110 0 182-40 332-146" stroke-width="1.5" />
+  </g>
+  <g font-family="'Space Grotesk', Arial, sans-serif" fill="#f7f1e8">
+    <text x="90" y="140" font-size="26" letter-spacing="2">ACQUIREVISTA</text>
+    <text x="90" y="265" font-size="72" font-weight="700">Acquire High-Quality</text>
+    <text x="90" y="345" font-size="72" font-weight="700">Customers. Not Just Leads.</text>
+    <text x="90" y="420" font-family="'Manrope', Arial, sans-serif" font-size="28">
+      Qualified conversations, appointment setting, and outbound systems for B2B-first growth teams.
+    </text>
+  </g>
+  <g>
+    <rect x="882" y="104" width="182" height="48" rx="24" fill="#f7f1e8" fill-opacity="0.12" stroke="#f7f1e8" stroke-opacity="0.32" />
+    <text x="913" y="135" font-family="'Manrope', Arial, sans-serif" font-size="20" fill="#f7f1e8">Targeting Engine</text>
+    <rect x="948" y="286" width="154" height="48" rx="24" fill="#ff8a3d" />
+    <text x="979" y="317" font-family="'Manrope', Arial, sans-serif" font-size="20" fill="#081b29">Booked Calls</text>
+    <rect x="742" y="356" width="178" height="48" rx="24" fill="#f7f1e8" fill-opacity="0.12" stroke="#f7f1e8" stroke-opacity="0.32" />
+    <text x="773" y="387" font-family="'Manrope', Arial, sans-serif" font-size="20" fill="#f7f1e8">Pipeline Reporting</text>
+  </g>
+</svg>
