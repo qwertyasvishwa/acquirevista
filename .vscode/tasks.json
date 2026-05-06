@@ -1,0 +1,34 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "AcquireVista Build",
+			"type": "shell",
+			"command": "npm run build",
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "AcquireVista Build",
+			"type": "shell",
+			"command": "cd 'c:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista' ; npm run build",
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Build AcquireVista",
+			"type": "shell",
+			"command": "npm run build",
+			"isBackground": false,
+			"group": "build"
+		},
+		{
+			"label": "Build AcquireVista",
+			"type": "shell",
+			"command": "npm run build",
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
