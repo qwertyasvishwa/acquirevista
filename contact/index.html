@@ -1,25 +1,23 @@
 <!doctype html>
 <html lang="en">
+
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Contact AcquireVista | Consultation and Sample Lead Requests</title>
-    <meta
-      name="description"
-      content="Contact AcquireVista for consultation requests, sample lead discussions, and outbound growth conversations."
-    />
+    <title>Contact AcquireVista | Calls and Free Audit Requests</title>
+    <meta name="description"
+      content="Contact AcquireVista for calls, free outbound growth audits, and premium outbound growth conversations." />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Contact AcquireVista" />
-    <meta
-      property="og:description"
-      content="Send a consultation request to AcquireVista and route sales conversations through a qualification-first contact flow."
-    />
+    <meta property="og:description"
+      content="Send a consultation request to AcquireVista and route sales conversations through a qualification-first contact flow." />
     <meta property="og:image" content="https://acquirevista.com/og-cover.svg" />
     <meta property="og:url" content="https://acquirevista.com/contact/" />
     <link rel="canonical" href="https://acquirevista.com/contact/" />
     <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
     <link rel="manifest" href="/site.webmanifest" />
   </head>
+
   <body data-page="contact">
     <div class="page-shell">
       <div class="preview-banner" data-preview-notice></div>
@@ -34,7 +32,7 @@
           </a>
           <div class="site-nav">
             <nav class="site-nav__links" aria-label="Primary" data-nav-links></nav>
-            <a class="button" href="#consultation-form" data-track="contact_header_cta_click">Book a Call</a>
+            <a class="button" href="#consultation-form" data-track="contact_header_cta_click">Schedule Consultation</a>
           </div>
         </div>
       </header>
@@ -44,14 +42,16 @@
           <div class="section__inner contact-grid">
             <div class="contact-panel">
               <p class="eyebrow">Contact</p>
-              <h2>Route a qualified enquiry through the consultation form.</h2>
+              <h2>Tell us what you sell — we’ll map the fastest path to better callbacks.</h2>
               <p class="form-note">
-                This page is built for lead generation and sales engagement first. When direct phone, email, and WhatsApp details are not yet approved, the form remains the safe primary route.
+                Share your target customer, markets, and monthly goal. We typically respond within one business day with
+                a recommended scope and next steps.
               </p>
               <form data-lead-form data-form-type="primary" id="consultation-form" novalidate>
                 <div class="honeypot" aria-hidden="true">
                   <label for="companyWebsite-contact">Company website</label>
-                  <input id="companyWebsite-contact" name="companyWebsite" type="text" tabindex="-1" autocomplete="off" />
+                  <input id="companyWebsite-contact" name="companyWebsite" type="text" tabindex="-1"
+                    autocomplete="off" />
                 </div>
                 <div class="form-grid">
                   <div class="field">
@@ -74,17 +74,18 @@
                     <label for="serviceInterest-contact">Service interest</label>
                     <select id="serviceInterest-contact" name="serviceInterest" required>
                       <option value="">Select a service</option>
-                      <option>B2B Lead Generation</option>
-                      <option>B2C Outreach Campaigns</option>
                       <option>Appointment Setting</option>
-                      <option>Data Intelligence and Targeting</option>
-                      <option>Campaign Setup and Optimization</option>
-                      <option>Market Expansion Support</option>
+                      <option>Outbound Lead Generation (B2B)</option>
+                      <option>Cold Email + LinkedIn Outreach</option>
+                      <option>Cold Calling + WhatsApp Follow‑up</option>
+                      <option>Data Enrichment + List Building</option>
+                      <option>CRM Setup + Automation</option>
                     </select>
                   </div>
                   <div class="field">
                     <label for="monthlyLeadGoal-contact">Monthly lead goal</label>
-                    <input id="monthlyLeadGoal-contact" name="monthlyLeadGoal" type="text" />
+                    <input id="monthlyLeadGoal-contact" name="monthlyLeadGoal" type="text"
+                      placeholder="Example: 20 qualified calls / month" />
                   </div>
                   <div class="field field--full">
                     <label for="message-contact">Engagement context</label>
@@ -92,16 +93,21 @@
                   </div>
                 </div>
                 <div class="form-actions">
-                  <button class="button" type="submit">Book a Free Consultation</button>
-                  <a class="button-inline" href="#sample-form" data-track="contact_sample_jump_click">Request sample leads instead</a>
+                  <button class="button" type="submit">Schedule Consultation</button>
+                  <a class="button-inline" href="#sample-form" data-track="contact_sample_jump_click">Request a free
+                    audit instead</a>
                 </div>
               </form>
               <p class="form-status" data-form-status aria-live="polite"></p>
             </div>
 
             <aside class="contact-aside">
-              <p class="eyebrow">Contact routing</p>
-              <h3>Direct contact details can be hidden safely until the client approves them.</h3>
+              <figure class="contact-aside__figure">
+                <img src="/contact-consultation-illustration.svg"
+                  alt="Illustration of a consultation request workflow with forms, cards, and response routing." />
+              </figure>
+              <p class="eyebrow">Contact details</p>
+              <h3>Prefer email or phone? Use what’s easiest — we’ll respond quickly.</h3>
               <p class="contact-route" data-contact-route></p>
               <ul data-availability></ul>
             </aside>
@@ -111,12 +117,15 @@
         <section class="section section-shell" id="sample-form">
           <div class="section__inner contact-grid">
             <div class="contact-panel">
-              <p class="eyebrow">Secondary CTA</p>
-              <h2>Shorter route for sample lead or callback requests.</h2>
+              <p class="eyebrow">Free audit</p>
+              <h2>Request your free outbound growth audit.</h2>
+              <p class="form-note">If you’re evaluating fit, we can share the exact gaps we’d fix first — targeting,
+                messaging, follow-up, or handoff. We typically reply within one business day.</p>
               <form data-lead-form data-form-type="secondary" novalidate>
                 <div class="honeypot" aria-hidden="true">
                   <label for="companyWebsite-sample">Company website</label>
-                  <input id="companyWebsite-sample" name="companyWebsite" type="text" tabindex="-1" autocomplete="off" />
+                  <input id="companyWebsite-sample" name="companyWebsite" type="text" tabindex="-1"
+                    autocomplete="off" />
                 </div>
                 <div class="form-grid">
                   <div class="field">
@@ -135,7 +144,7 @@
                     <label for="serviceInterest-sample">What do you want?</label>
                     <select id="serviceInterest-sample" name="serviceInterest" required>
                       <option value="">Choose one</option>
-                      <option>Sample Leads</option>
+                      <option>Free Growth Audit</option>
                       <option>Callback</option>
                       <option>Consultation</option>
                     </select>
@@ -146,20 +155,20 @@
                   </div>
                 </div>
                 <div class="form-actions">
-                  <button class="button" type="submit">Request Sample Leads</button>
+                  <button class="button" type="submit">Start Your Free Audit</button>
                 </div>
               </form>
               <p class="form-status" data-form-status aria-live="polite"></p>
             </div>
 
             <aside class="contact-aside">
-              <p class="eyebrow">Before launch</p>
-              <h3>Essential details still required from the client.</h3>
+              <p class="eyebrow">What happens next</p>
+              <h3>A clear, low-friction process.</h3>
               <ul>
-                <li>Real business phone and email</li>
-                <li>Approved WhatsApp routing</li>
-                <li>Proof assets and testimonials</li>
-                <li>Final business hours and policy owner details</li>
+                <li>We review your offer, ICP, and target markets.</li>
+                <li>We recommend a channel mix and a first sprint scope.</li>
+                <li>If requested, we share a sample audit summary with context.</li>
+                <li>We align on qualification rules and schedule consultation.</li>
               </ul>
             </aside>
           </div>
@@ -177,7 +186,8 @@
                   <span>Qualified outbound growth systems</span>
                 </span>
               </a>
-              <p class="site-footer__legal">The contact experience is optimized for enquiries, qualification, and future CRM-style routing.</p>
+              <p class="site-footer__legal">The contact experience is optimized for enquiries, qualification, and future
+                CRM-style routing — so conversations don’t get lost after the first reply.</p>
             </div>
             <div>
               <div class="site-footer__links" data-footer-links></div>
@@ -190,4 +200,5 @@
     </div>
     <script type="module" src="/src/main.js"></script>
   </body>
+
 </html>

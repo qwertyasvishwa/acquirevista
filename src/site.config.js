@@ -3,32 +3,31 @@ export const siteConfig = {
     brand: "AcquireVista",
     domain: "https://acquirevista.com",
     tagline: "Acquire high-quality customers. Not just leads.",
-    previewMode: true,
-    previewNotice:
-      "Preview implementation: replace contact routes, proof assets, privacy owner details, and live form wiring before production.",
+    previewMode: false,
+    previewNotice: "",
     socialImage: "/og-cover.svg"
   },
   contact: {
-    consultationLabel: "Book a Free Consultation",
-    sampleLabel: "Request Sample Leads",
-    whatsappLabel: "Talk on WhatsApp",
-    primaryEmail: "",
-    primaryPhone: "",
+    consultationLabel: "Schedule Consultation",
+    sampleLabel: "Start Your Free Audit",
+    whatsappLabel: "Consult via WhatsApp",
+    primaryEmail: "hello@acquirevista.com",
+    primaryPhone: "+91 840 991 5471",
     whatsappUrl: "",
-    routingFallbackLabel: "Consultation form is the active contact route in this preview build.",
+    routingFallbackLabel: "Use the form above to schedule consultation — we typically reply within one business day.",
     availability: [
-      "B2B-first outbound campaigns across UK, US, Australia, and GCC buying windows.",
-      "Response workflows designed for founders, growth teams, and sales operators.",
-      "Contact routing, consent, and policy details must be finalized before launch."
+      "Serving teams across the UK, US, Australia, India, and Europe with remote-first delivery.",
+      "Multi-channel outreach across cold email, LinkedIn, cold calling, and WhatsApp follow-up.",
+      "New enquiries typically receive a response within one business day."
     ]
   },
   forms: {
     endpoint: "",
     method: "POST",
     successMessage:
-      "Preview mode is active. The form UX is complete, but the live delivery endpoint still needs to be connected.",
+      "Thanks — we’ve received your details. We’ll review them and send next steps within one business day.",
     failureMessage:
-      "Submission could not be completed. Verify the form endpoint and spam controls in site.config.js."
+      "Something went wrong. Please try again or email us at hello@acquirevista.com."
   },
   nav: [
     { label: "Home", href: "/" },
@@ -38,184 +37,234 @@ export const siteConfig = {
   ],
   hero: {
     kicker: "Qualified outbound growth systems",
-    title: "Acquire High-Quality Customers. Not Just Leads.",
+    title: "Convert High-Intent Targets into Qualified Opportunities.",
     body:
-      "AcquireVista helps B2B-focused teams turn sharper targeting, cleaner outreach, and appointment-setting discipline into booked conversations and healthier pipeline.",
+      "AcquireVista helps small and mid-sized teams turn precision targeting, disciplined outreach, and appointment setting into qualified meetings and stronger pipeline integrity.",
     support:
-      "Built for founder-led firms, service businesses, agencies, and expansion-stage teams that need sales momentum without vague marketing promises."
+      "Built for teams that need premium outbound execution across email, LinkedIn, calls, and WhatsApp with measurable quality controls."
   },
   trustSignals: [
-    "B2B-first pipeline acceleration",
-    "Qualification-led appointment setting",
-    "Cross-market outreach support",
-    "Reporting designed around buyer intent"
+    "Trusted by 100+ companies",
+    "Qualification-first appointment setting",
+    "Multi-channel outreach (email, LinkedIn, calls, WhatsApp)",
+    "Targeting + CRM automation built for conversion"
+  ],
+  metricHighlights: [
+    {
+      value: "100+",
+      label: "Companies supported",
+      support:
+        "Outbound campaigns and acquisition workflows delivered across industries and international markets."
+    },
+    {
+      value: "24h",
+      label: "Typical response time",
+      support: "New enquiries typically receive a response within one business day."
+    },
+    {
+      value: "4",
+      label: "Core outreach channels",
+      support: "Email, LinkedIn, cold calling, and WhatsApp follow-up — aligned to your ICP and offer."
+    }
   ],
   serviceHighlights: [
     {
-      title: "B2B Lead Generation",
+      icon: "target",
+      title: "Outbound Lead Generation (B2B)",
       summary:
-        "Prospect targeting, list strategy, and outreach systems built around decision-makers instead of vanity volume."
+        "Targeting, lists, and outreach built for decision-makers — with quality controls from first touch to booked call."
     },
     {
-      title: "B2C Outreach Campaigns",
-      summary:
-        "Consumer-focused acquisition flows for campaigns that still need message discipline, follow-up, and conversion visibility."
-    },
-    {
+      icon: "calendar",
       title: "Appointment Setting",
       summary:
-        "Qualified meeting workflows that screen intent before time reaches your sales calendar."
+        "Qualification-led meeting workflows that protect your calendar and improve show rates."
     },
     {
-      title: "Data Intelligence and Targeting",
+      icon: "message",
+      title: "Cold Email + LinkedIn Outreach",
       summary:
-        "ICP refinement, account filters, segmentation, and targeting logic that cut wasted outreach spend."
+        "Messaging and sequencing that create real replies — tuned for relevance and clear next steps."
     },
     {
-      title: "Campaign Setup and Optimization",
+      icon: "chat",
+      title: "Cold Calling + WhatsApp Follow‑up",
       summary:
-        "Messaging, sequencing, reply handling, and continuous adjustments based on conversion signals."
+        "Human follow-up that turns interest into scheduled conversations, with respectful cadence and intent checks."
     },
     {
-      title: "Market Expansion Support",
+      icon: "optimize",
+      title: "Data Enrichment + List Building",
       summary:
-        "Outbound positioning for teams entering new regions, sectors, or customer segments."
+        "Enrichment and segmentation that keep outreach focused on real buyer profiles and clean contactability."
+    },
+    {
+      icon: "workflow",
+      title: "CRM Setup + Automation",
+      summary:
+        "Routing, tagging, and follow-up automation so nothing drops after the first reply."
     }
   ],
   serviceDetails: [
     {
-      title: "Pipeline-Focused B2B Lead Generation",
-      strapline: "For teams that care more about booked conversations than raw list size.",
+      icon: "target",
+      title: "Outbound Lead Generation (B2B)",
+      strapline: "A structured system to create qualified conversations and pipeline-ready opportunities.",
       bullets: [
-        "Define your ideal accounts and buyer roles before outreach starts.",
-        "Build messaging around pain, urgency, and qualification criteria.",
-        "Measure lead quality by reply relevance, meeting acceptance, and downstream fit."
+        "ICP definition, account filters, and buyer-role targeting.",
+        "List building and enrichment aligned to your offer and markets.",
+        "Quality measurement: reply intent, meeting acceptance, and sales handoff fit."
       ]
     },
     {
-      title: "B2C Outreach With Better Conversion Signals",
-      strapline: "Useful when your growth model still needs personalization, audience filters, and follow-up discipline.",
-      bullets: [
-        "Segment by audience type, buying window, and offer intent.",
-        "Use lower-friction messaging paths than generic promo blasts.",
-        "Track the actions that matter: response quality, booked callbacks, and lead progression."
-      ]
-    },
-    {
+      icon: "calendar",
       title: "Appointment Setting",
-      strapline: "Protect your calendar from low-fit conversations.",
+      strapline: "Keep your calendar for high-fit conversations.",
       bullets: [
-        "Pre-qualify interest before handoff to your closer or founder.",
-        "Route high-fit opportunities into a cleaner booking process.",
-        "Reduce calendar clutter from unready prospects."
+        "Pre-qualification questions that screen readiness and intent.",
+        "Clean booking flow and meeting confirmation routines.",
+        "Handoff notes so your sales call starts with context, not guesswork."
       ]
     },
     {
-      title: "Data Intelligence and Targeting",
-      strapline: "Lead generation fails when the targeting model is weak.",
+      icon: "message",
+      title: "Cold Email + LinkedIn Outreach",
+      strapline: "Sequences that earn replies and move buyers to a next step.",
       bullets: [
-        "Refine account lists by vertical, company profile, geography, and buyer role.",
-        "Prioritize accounts with stronger purchase potential or expansion readiness.",
-        "Use targeting criteria as a CAC control lever, not just a data exercise."
+        "Offer-led messaging with buyer relevance and clear call-to-action.",
+        "Follow-up cadence designed around intent signals, not spam volume.",
+        "Reply handling that routes opportunities quickly and exits low-fit leads politely."
       ]
     },
     {
-      title: "Campaign Setup and Optimization",
-      strapline: "Launch quickly, then improve based on reply quality and meeting outcomes.",
+      icon: "chat",
+      title: "Cold Calling + WhatsApp Follow‑up",
+      strapline: "Convert interest into booked time with human outreach and disciplined follow-through.",
       bullets: [
-        "Create channel-aware messaging for email, call, WhatsApp, or mixed workflows.",
-        "Tune cadence, offers, and qualification questions as signal comes in.",
-        "Keep optimization tied to conversations and appointments, not superficial reach."
+        "Call scripts and objection handling aligned to your positioning.",
+        "WhatsApp follow-up that stays professional and conversion-driven.",
+        "Tracking and notes so handoff to sales is clean and audit-able."
       ]
     },
     {
-      title: "Market Expansion Support",
-      strapline: "Useful when you are entering new buying geographies or verticals.",
+      icon: "optimize",
+      title: "Data Enrichment + List Building",
+      strapline: "Better data is a direct lever for lower waste and higher conversion.",
       bullets: [
-        "Adapt prospecting and messaging to region-specific expectations.",
-        "Test customer segments without overcommitting spend too early.",
-        "Build a structured outbound learning loop before you scale."
+        "Sourcing and enrichment to improve deliverability and contact accuracy.",
+        "Segmentation by geography, role, and industry (and intent where available).",
+        "List hygiene to reduce bounce, spam risk, and wasted outreach effort."
+      ]
+    },
+    {
+      icon: "workflow",
+      title: "CRM Setup + Automation",
+      strapline: "A simple operating system for routing, follow-up, and visibility.",
+      bullets: [
+        "Lead capture, tagging, and routing rules aligned to your sales process.",
+        "Automated follow-up tasks so leads don’t die after the first reply.",
+        "Reporting structure that ties outreach activity to meetings and pipeline outcomes."
       ]
     }
   ],
   process: [
     {
+      icon: "target",
       step: "01",
       title: "Target the right buyers",
       text: "We start with ICP clarity, account filters, and outreach segments that match your sales reality."
     },
     {
+      icon: "message",
       step: "02",
       title: "Build the message architecture",
       text: "Every campaign is structured around relevance, buying signals, and qualification criteria."
     },
     {
+      icon: "workflow",
       step: "03",
       title: "Run outreach with discipline",
       text: "Lead generation, follow-up, and appointment workflows stay aligned to response quality and scheduling intent."
     },
     {
+      icon: "insights",
       step: "04",
       title: "Report what actually matters",
       text: "You see progress through conversation quality, booked meetings, and pipeline-ready momentum."
     }
   ],
   industries: [
-    "Agencies and B2B service firms",
-    "Outbound-heavy consulting businesses",
-    "Regional expansion campaigns",
-    "Founder-led sales teams",
-    "Appointment-setting dependent operators",
-    "Growth-stage offers entering new markets"
+    "Small and mid-sized enterprises",
+    "Agencies and service businesses",
+    "Consulting and professional services",
+    "B2B offers with longer sales cycles",
+    "Outbound-led sales teams",
+    "Teams expanding into new regions"
   ],
   principles: [
     {
+      icon: "shield",
       title: "Qualification beats vanity volume",
-      body: "AcquireVista is positioned around better-fit conversations, not inflated lead counts that never mature into revenue."
+      body: "We prioritize fit and intent so your team spends time on real opportunities — not busywork."
     },
     {
+      icon: "workflow",
       title: "Every campaign needs an operating model",
-      body: "Targeting, messaging, response handling, and handoff rules must work together if you want reliable outcomes."
+      body: "Targeting, messaging, follow-up, and handoff rules work together so results are repeatable."
     },
     {
+      icon: "growth",
       title: "Outbound should improve CAC discipline",
       body: "The point is not more activity. The point is lower waste, clearer fit, and stronger sales efficiency."
     }
   ],
   proofFramework: [
     {
+      icon: "chat",
       title: "Qualified conversations",
-      body: "This section is designed to show the volume and quality of real buyer conversations once approved proof assets are supplied."
+      body: "Real buyer conversations that match your ICP — tracked by reply intent, qualification fit, and downstream opportunity quality."
     },
     {
+      icon: "calendar",
       title: "Booked appointments",
-      body: "Use this slot for meeting acceptance rate, call-show data, or calendar-qualified lead metrics."
+      body: "Meeting acceptance rates, show rates, and calendar-qualified leads — the metrics that matter when your goal is revenue conversations, not click-throughs."
     },
     {
+      icon: "growth",
       title: "Pipeline efficiency",
-      body: "Ideal for CAC improvement, opportunity rate, or region-entry performance once client numbers are approved."
+      body: "Cost-per-meeting, opportunity rate, and CAC improvement — the full commercial picture for buyers who want outbound that pays for itself."
     }
   ],
   faqs: [
     {
       question: "Who is AcquireVista best suited for?",
       answer:
-        "The site is positioned for B2B-led teams that need qualified outreach, appointment setting, and a clearer prospecting system rather than generic traffic generation."
+        "AcquireVista is best suited for small and mid-sized teams that want qualified outbound conversations, booked meetings, and a cleaner handoff into sales."
     },
     {
-      question: "Is this focused only on lead generation?",
+      question: "Is this only lead generation?",
       answer:
-        "No. The positioning is broader: targeting, messaging, appointment setting, response handling, and campaign optimization all feed the outcome."
+        "No. We build an operating system around targeting, outreach, reply handling, appointment setting, and CRM follow-up so outcomes are measurable and repeatable."
     },
     {
-      question: "How should proof be added later?",
+      question: "Do you support B2C campaigns as well?",
       answer:
-        "Replace the framework cards with approved case studies, testimonial quotes, client logos, or concrete metrics once the client signs them off."
+        "Yes — when the offer and audience are clear. Most work is B2B-led, but we can support B2C outreach where segmentation, follow-up, and conversion visibility are required."
     },
     {
-      question: "What happens if WhatsApp or direct contact is not ready?",
+      question: "How quickly do you respond to enquiries?",
       answer:
-        "The build falls back to form-led routing so the UX remains usable without publishing unverified contact details."
+        "We typically respond within one business day. For urgent requests, include a phone number or WhatsApp in the form so we can reach you faster."
+    },
+    {
+      question: "What is included in the free outbound growth audit?",
+      answer:
+        "We review targeting, messaging, follow-up, and handoff to identify where replies are getting stuck and what will improve callbacks and booked calls fastest."
+    },
+    {
+      question: "What do you need to get started?",
+      answer:
+        "Your offer, target customer, markets, and any current CRM or outreach setup. If you have existing messaging or lead lists, we’ll review and improve them rather than starting from scratch."
     }
   ],
   footerLinks: [
