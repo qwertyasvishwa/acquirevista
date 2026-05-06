@@ -37,11 +37,11 @@ export const siteConfig = {
   ],
   hero: {
     kicker: "Qualified outbound growth systems",
-    title: "Convert High-Intent Targets into Qualified Opportunities.",
+    title: "Convert High-Intent Targets into Qualified Opportunities",
     body:
-      "AcquireVista helps small and mid-sized teams turn precision targeting, disciplined outreach, and appointment setting into qualified meetings and stronger pipeline integrity.",
+      "AcquireVista helps growth teams turn focused targeting and disciplined outreach into more qualified meetings.",
     support:
-      "Built for teams that need premium outbound execution across email, LinkedIn, calls, and WhatsApp with measurable quality controls."
+      "Built for teams that need premium outbound execution across email, LinkedIn, calls, and WhatsApp."
   },
   trustSignals: [
     "Trusted by 100+ companies",
