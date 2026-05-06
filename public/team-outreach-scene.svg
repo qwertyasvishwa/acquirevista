@@ -1,0 +1,49 @@
+<svg width="1600" height="1100" viewBox="0 0 1600 1100" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Outbound team scene</title>
+  <desc id="desc">Original editorial-style scene showing an outbound team reviewing call outcomes and campaign activity.</desc>
+  <defs>
+    <linearGradient id="bg" x1="180" y1="120" x2="1420" y2="1020" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F9FCFA"/>
+      <stop offset="1" stop-color="#E1F0E7"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="820" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#EEF6F1"/>
+    </linearGradient>
+    <linearGradient id="dark" x1="320" y1="230" x2="760" y2="530" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#16212A"/>
+      <stop offset="1" stop-color="#31434E"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1270 288) rotate(90) scale(210)">
+      <stop stop-color="#CBEFDF" stop-opacity="0.85"/>
+      <stop offset="1" stop-color="#CBEFDF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1100" rx="64" fill="url(#bg)"/>
+  <circle cx="1270" cy="288" r="210" fill="url(#glow)"/>
+  <rect x="220" y="150" width="1160" height="790" rx="56" fill="url(#panel)" stroke="#E4EFE8" stroke-width="8"/>
+  <rect x="300" y="230" width="470" height="300" rx="34" fill="url(#dark)"/>
+  <rect x="352" y="286" width="136" height="18" rx="9" fill="#D9F8E7"/>
+  <rect x="352" y="326" width="208" height="18" rx="9" fill="#8EDAB2"/>
+  <rect x="352" y="368" width="178" height="18" rx="9" fill="#6AC28E"/>
+  <rect x="352" y="434" width="124" height="64" rx="20" fill="#FFFFFF" fill-opacity="0.12"/>
+  <rect x="504" y="434" width="124" height="64" rx="20" fill="#FFFFFF" fill-opacity="0.08"/>
+  <rect x="656" y="434" width="72" height="64" rx="20" fill="#62D08F" fill-opacity="0.4"/>
+  <rect x="840" y="230" width="450" height="156" rx="34" fill="#FFFFFF"/>
+  <rect x="882" y="278" width="184" height="22" rx="11" fill="#D8EAE0"/>
+  <rect x="882" y="318" width="286" height="18" rx="9" fill="#BAD8C8"/>
+  <rect x="840" y="418" width="450" height="220" rx="38" fill="#F3F9F5"/>
+  <path d="M904 562C953 520 1000 506 1042 492C1095 475 1128 484 1180 430" stroke="#2AA15E" stroke-width="16" stroke-linecap="round"/>
+  <circle cx="1180" cy="430" r="17" fill="#2AA15E"/>
+  <rect x="300" y="670" width="1000" height="184" rx="42" fill="#173C2A"/>
+  <circle cx="494" cy="516" r="68" fill="#EEC6AD"/>
+  <path d="M410 570C410 500 447 462 494 462C545 462 578 500 578 570V670H410V570Z" fill="#FFFFFF"/>
+  <circle cx="782" cy="534" r="74" fill="#F2CBB0"/>
+  <path d="M694 598C694 520 736 478 782 478C831 478 870 520 870 598V670H694V598Z" fill="#123524"/>
+  <circle cx="1072" cy="522" r="68" fill="#EFC6A9"/>
+  <path d="M996 578C996 510 1032 472 1072 472C1117 472 1148 506 1148 578V670H996V578Z" fill="#DFECE5"/>
+  <rect x="584" y="716" width="154" height="78" rx="24" fill="#F6FBF7"/>
+  <rect x="618" y="744" width="86" height="12" rx="6" fill="#B4D6C4"/>
+  <rect x="618" y="766" width="56" height="10" rx="5" fill="#80C09D"/>
+  <ellipse cx="1260" cy="774" rx="98" ry="110" fill="#D2EFE1" fill-opacity="0.62"/>
+</svg>

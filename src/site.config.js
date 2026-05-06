@@ -17,8 +17,8 @@ export const siteConfig = {
     routingFallbackLabel: "Use the form above to schedule consultation — we typically reply within one business day.",
     availability: [
       "Serving teams across the UK, US, Australia, India, and Europe with remote-first delivery.",
-      "Multi-channel outreach across cold email, LinkedIn, cold calling, and WhatsApp follow-up.",
-      "New enquiries typically receive a response within one business day."
+      "Multi-channel outreach across email, LinkedIn, calling, and WhatsApp follow-up.",
+      "Most new enquiries receive a response within one business day."
     ]
   },
   forms: {
@@ -54,17 +54,17 @@ export const siteConfig = {
       value: "100+",
       label: "Companies supported",
       support:
-        "Outbound campaigns and acquisition workflows delivered across industries and international markets."
+        "Outbound programs delivered across industries and international markets."
     },
     {
       value: "24h",
       label: "Typical response time",
-      support: "New enquiries typically receive a response within one business day."
+      support: "Most enquiries receive a response within one business day."
     },
     {
       value: "4",
       label: "Core outreach channels",
-      support: "Email, LinkedIn, cold calling, and WhatsApp follow-up — aligned to your ICP and offer."
+      support: "Email, LinkedIn, calling, and WhatsApp follow-up — aligned to your ICP and offer."
     }
   ],
   serviceHighlights: [
