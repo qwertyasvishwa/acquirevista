@@ -1,0 +1,139 @@
+- generic [active] [ref=f4e1]:
+  - link "Skip to content" [ref=f4e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - link "AcquireVista — Qualified outbound systems home" [ref=f4e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f4e7]:
+          - text: AcquireVista
+          - generic [ref=f4e8]: Qualified outbound systems
+      - button "Open navigation" [ref=f4e9] [cursor=pointer]
+  - main [ref=f4e13]:
+    - generic [ref=f4e15]:
+      - generic [ref=f4e16]:
+        - paragraph [ref=f4e17]: Start the conversation
+        - heading "Bring us the buyer, offer, and outcome you want to improve." [level=1] [ref=f4e18]
+        - paragraph [ref=f4e19]: Use the form to prepare a consultation request. We’ll open your email app with the information you enter; nothing is submitted or claimed as received by this website.
+        - link "Request consultation" [ref=f4e20] [cursor=pointer]:
+          - /url: "#consultation-form"
+      - figure [ref=f4e21]:
+        - img "Abstract 3D glass gateway turning several input paths into one clear green path" [ref=f4e22]
+    - generic [ref=f4e24]:
+      - generic [ref=f4e25]:
+        - paragraph [ref=f4e26]: Consultation request
+        - heading "Tell us where the motion needs more clarity." [level=2] [ref=f4e27]
+        - paragraph [ref=f4e28]: Required fields are marked. A valid form prepares an email to our team; it does not transmit data through the website.
+        - generic [ref=f4e29]:
+          - generic [ref=f4e30]:
+            - generic [ref=f4e31]:
+              - generic [ref=f4e32]: Full name
+              - textbox "Full name" [ref=f4e33]
+            - generic [ref=f4e34]:
+              - generic [ref=f4e35]: Work email
+              - textbox "Work email" [ref=f4e36]
+            - generic [ref=f4e37]:
+              - generic [ref=f4e38]: Company or agency
+              - textbox "Company or agency" [ref=f4e39]
+            - generic [ref=f4e40]:
+              - generic [ref=f4e41]: Phone (optional)
+              - textbox "Phone (optional)" [ref=f4e42]
+            - generic [ref=f4e43]:
+              - generic [ref=f4e44]: Primary need
+              - combobox "Primary need" [ref=f4e45]:
+                - option "Choose a service" [selected]
+                - option "Targeting & list intelligence"
+                - option "Email & LinkedIn outreach"
+                - option "Calling & appointment flow"
+                - option "CRM setup & automation"
+                - option "Full outbound system"
+            - generic [ref=f4e46]:
+              - generic [ref=f4e47]: Monthly conversation goal
+              - textbox "Monthly conversation goal" [ref=f4e48]:
+                - /placeholder: "Example: 12 qualified conversations"
+            - generic [ref=f4e49]:
+              - generic [ref=f4e50]: What are you trying to improve?
+              - textbox "What are you trying to improve?" [ref=f4e51]
+          - generic [ref=f4e52]:
+            - button "Prepare consultation email" [ref=f4e53] [cursor=pointer]
+            - link "Request a free audit instead" [ref=f4e54] [cursor=pointer]:
+              - /url: "#audit-form"
+        - status [ref=f4e55]
+      - complementary [ref=f4e56]:
+        - figure [ref=f4e57]:
+          - img "Abstract 3D tower representing a clear growth path" [ref=f4e58]
+        - paragraph [ref=f4e59]: Direct contact
+        - heading "Prefer a direct conversation?" [level=2] [ref=f4e60]
+        - paragraph [ref=f4e61]:
+          - link "hello@acquirevista.com" [ref=f4e62] [cursor=pointer]:
+            - /url: mailto:hello@acquirevista.com
+          - link "+91 840 991 5471" [ref=f4e63] [cursor=pointer]:
+            - /url: tel:+918409915471
+        - list [ref=f4e64]:
+          - listitem [ref=f4e65]: For B2B revenue teams, agencies, and consultants.
+          - listitem [ref=f4e66]: Bring your target market, offer, and current bottleneck.
+          - listitem [ref=f4e67]: We’ll help focus the next step before adding more activity.
+    - generic [ref=f4e69]:
+      - generic [ref=f4e70]:
+        - paragraph [ref=f4e71]: Free outbound audit
+        - heading "Request a focused diagnostic instead." [level=2] [ref=f4e72]
+        - paragraph [ref=f4e73]: Use this when you want a structured first look at targeting, messaging, follow-up, or handoff.
+        - generic [ref=f4e74]:
+          - generic [ref=f4e75]:
+            - generic [ref=f4e76]:
+              - generic [ref=f4e77]: Full name
+              - textbox "Full name" [ref=f4e78]
+            - generic [ref=f4e79]:
+              - generic [ref=f4e80]: Work email
+              - textbox "Work email" [ref=f4e81]
+            - generic [ref=f4e82]:
+              - generic [ref=f4e83]: Company or agency
+              - textbox "Company or agency" [ref=f4e84]
+            - generic [ref=f4e85]:
+              - generic [ref=f4e86]: Audit focus
+              - combobox "Audit focus" [ref=f4e87]:
+                - option "Choose one" [selected]
+                - option "Targeting"
+                - option "Messaging"
+                - option "Follow-up"
+                - option "Sales handoff"
+                - option "Full outbound motion"
+            - generic [ref=f4e88]:
+              - generic [ref=f4e89]: Context
+              - textbox "Context" [ref=f4e90]
+          - button "Prepare audit email" [ref=f4e92] [cursor=pointer]
+        - status [ref=f4e93]
+      - complementary [ref=f4e94]:
+        - paragraph [ref=f4e95]: What happens next
+        - heading "A useful, low-friction first step." [level=2] [ref=f4e96]
+        - list [ref=f4e97]:
+          - listitem [ref=f4e98]: We review the context you choose to share.
+          - listitem [ref=f4e99]: We identify the clearest place to improve buyer fit or conversion flow.
+          - listitem [ref=f4e100]: We recommend the most appropriate next conversation.
+  - contentinfo [ref=f4e101]:
+    - generic [ref=f4e102]:
+      - generic [ref=f4e103]:
+        - link "AcquireVista — Qualified outbound systems home" [ref=f4e104] [cursor=pointer]:
+          - /url: /
+          - generic [ref=f4e106]:
+            - text: AcquireVista
+            - generic [ref=f4e107]: Qualified outbound systems
+        - paragraph [ref=f4e108]: Qualification-first outbound systems for B2B revenue teams, agencies, and consultants.
+      - generic [ref=f4e109]:
+        - navigation "Footer" [ref=f4e110]:
+          - link "Services" [ref=f4e111] [cursor=pointer]:
+            - /url: /services/
+          - link "About" [ref=f4e112] [cursor=pointer]:
+            - /url: /about/
+          - link "Contact" [ref=f4e113] [cursor=pointer]:
+            - /url: /contact/
+          - link "Privacy" [ref=f4e114] [cursor=pointer]:
+            - /url: /privacy/
+        - paragraph [ref=f4e115]:
+          - link "hello@acquirevista.com" [ref=f4e116] [cursor=pointer]:
+            - /url: mailto:hello@acquirevista.com
+          - text: ·
+          - link "+91 840 991 5471" [ref=f4e117] [cursor=pointer]:
+            - /url: tel:+918409915471
+          - text: © 2026 AcquireVista
+  - button "Back to top": ↑

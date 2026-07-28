@@ -1,0 +1,508 @@
+[
+  {
+    "viewport": "desktop",
+    "path": "/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\desktop-home.png",
+    "title": "AcquireVista | Qualified outbound systems",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "Request a consultation →",
+        "width": 201,
+        "height": 25
+      },
+      {
+        "text": "See the service system →",
+        "width": 204,
+        "height": 25
+      },
+      {
+        "text": "View all services →",
+        "width": 153,
+        "height": 25
+      },
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "desktop",
+    "path": "/services/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\desktop-services.png",
+    "title": "AcquireVista Services | Outbound systems",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 119,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "desktop",
+    "path": "/about/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\desktop-about.png",
+    "title": "About AcquireVista | Qualification-first outbound",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 119,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "desktop",
+    "path": "/contact/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\desktop-contact.png",
+    "title": "Contact AcquireVista | Request consultation",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 12,
+    "tinyTapTargets": [
+      {
+        "text": "Request a free audit instead",
+        "width": 220,
+        "height": 25
+      },
+      {
+        "text": "Open prepared email",
+        "width": 164,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 203,
+        "height": 20
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 145,
+        "height": 20
+      },
+      {
+        "text": "Open prepared email",
+        "width": 164,
+        "height": 25
+      },
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "desktop",
+    "path": "/privacy/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\desktop-privacy.png",
+    "title": "AcquireVista | Privacy policy",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "hello@acquirevista.com",
+        "width": 194,
+        "height": 20
+      },
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 119,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "mobile",
+    "path": "/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\mobile-home.png",
+    "title": "AcquireVista | Qualified outbound systems",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "Request a consultation →",
+        "width": 201,
+        "height": 25
+      },
+      {
+        "text": "See the service system →",
+        "width": 204,
+        "height": 25
+      },
+      {
+        "text": "View all services →",
+        "width": 353,
+        "height": 25
+      },
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "mobile",
+    "path": "/services/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\mobile-services.png",
+    "title": "AcquireVista Services | Outbound systems",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 119,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "mobile",
+    "path": "/about/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\mobile-about.png",
+    "title": "About AcquireVista | Qualification-first outbound",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 119,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "mobile",
+    "path": "/contact/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\mobile-contact.png",
+    "title": "Contact AcquireVista | Request consultation",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 12,
+    "tinyTapTargets": [
+      {
+        "text": "Request a free audit instead",
+        "width": 220,
+        "height": 25
+      },
+      {
+        "text": "Open prepared email",
+        "width": 164,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 203,
+        "height": 20
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 145,
+        "height": 20
+      },
+      {
+        "text": "Open prepared email",
+        "width": 164,
+        "height": 25
+      },
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "mobile",
+    "path": "/privacy/",
+    "status": 200,
+    "screenshot": "C:\\Users\\vishwa.raj\\Documents\\Project\\acquirevista\\qa-shots\\smoke-2026-07-28\\mobile-privacy.png",
+    "title": "AcquireVista | Privacy policy",
+    "h1Count": 1,
+    "primaryNavCount": 4,
+    "hasHorizontalOverflow": false,
+    "formFields": 0,
+    "tinyTapTargets": [
+      {
+        "text": "hello@acquirevista.com",
+        "width": 194,
+        "height": 20
+      },
+      {
+        "text": "Services",
+        "width": 69,
+        "height": 25
+      },
+      {
+        "text": "About",
+        "width": 48,
+        "height": 25
+      },
+      {
+        "text": "Contact",
+        "width": 63,
+        "height": 25
+      },
+      {
+        "text": "Privacy",
+        "width": 59,
+        "height": 25
+      },
+      {
+        "text": "hello@acquirevista.com",
+        "width": 163,
+        "height": 17
+      },
+      {
+        "text": "+91 840 991 5471",
+        "width": 119,
+        "height": 17
+      }
+    ],
+    "brokenImages": []
+  },
+  {
+    "viewport": "mobile",
+    "path": "/ (menu-check)",
+    "status": 200,
+    "menuBefore": {
+      "buttonExists": true,
+      "buttonDisplay": "block",
+      "buttonVisible": true,
+      "ariaExpanded": "false",
+      "navOpenClass": false
+    },
+    "menuAfter": {
+      "ariaExpanded": "true",
+      "navOpenClass": true
+    }
+  }
+]

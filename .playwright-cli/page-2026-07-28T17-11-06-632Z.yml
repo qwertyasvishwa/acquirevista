@@ -1,0 +1,328 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e4]:
+        - link "AcquireVista Outbound growth systems" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e8]:
+            - strong [ref=e9]: AcquireVista
+            - generic [ref=e10]: Outbound growth systems
+        - generic [ref=e11]:
+          - navigation "Primary" [ref=e12]:
+            - link "Home" [ref=e13] [cursor=pointer]:
+              - /url: /
+            - link "Services" [ref=e14] [cursor=pointer]:
+              - /url: /services/
+            - link "About" [ref=e15] [cursor=pointer]:
+              - /url: /about/
+            - link "Contact" [ref=e16] [cursor=pointer]:
+              - /url: /contact/
+          - generic [ref=e17]:
+            - link "Schedule Consultation" [ref=e18] [cursor=pointer]:
+              - /url: /contact/#consultation-form
+            - link "View services" [ref=e19] [cursor=pointer]:
+              - /url: /services/
+    - main [ref=e20]:
+      - generic [ref=e23]:
+        - paragraph [ref=e28]: Qualified outbound growth systems
+        - heading "Convert High-Intent Targets into Qualified Opportunities" [level=1] [ref=e29]
+        - paragraph [ref=e30]: AcquireVista helps growth teams turn focused targeting and disciplined outreach into more qualified meetings.
+        - paragraph [ref=e31]: Built for teams that need premium outbound execution across email, LinkedIn, calls, and WhatsApp.
+        - generic "Key proof points" [ref=e32]:
+          - generic [ref=e33]: 100+ companies supported
+          - generic [ref=e34]: 24h typical response
+          - generic [ref=e35]: 4-channel outbound
+        - generic [ref=e36]:
+          - link "Schedule Strategy Call" [ref=e37] [cursor=pointer]:
+            - /url: /contact/#consultation-form
+          - link "View services" [ref=e38] [cursor=pointer]:
+            - /url: /services/
+        - generic [ref=e39]:
+          - generic [ref=e40]: Executive qualification
+          - generic [ref=e41]: Higher-intent meetings
+          - generic [ref=e42]: Streamlined handoff
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - generic [ref=e46]:
+            - paragraph [ref=e47]: Commercial clarity
+            - heading "Enterprise outbound that turns engagement into measurable opportunities." [level=2] [ref=e48]
+            - paragraph [ref=e49]: AcquireVista runs outbound with a qualification-first model focused on clearer buyer intent, cleaner handoff, and more booked conversations that deserve calendar space.
+          - figure [ref=e51]:
+            - img "Original business scene showing a strategy session around pipeline planning and outbound messaging." [ref=e52]
+        - generic [ref=e53]:
+          - article [ref=e54]:
+            - paragraph [ref=e55]: 100+
+            - heading "Companies supported" [level=3] [ref=e56]
+            - paragraph [ref=e57]: Outbound programs delivered across industries and international markets.
+          - article [ref=e58]:
+            - paragraph [ref=e59]: 24h
+            - heading "Typical response time" [level=3] [ref=e60]
+            - paragraph [ref=e61]: Most enquiries receive a response within one business day.
+          - article [ref=e62]:
+            - paragraph [ref=e63]: "4"
+            - heading "Core outreach channels" [level=3] [ref=e64]
+            - paragraph [ref=e65]: Email, LinkedIn, calling, and WhatsApp follow-up — aligned to your ICP and offer.
+      - generic [ref=e67]:
+        - paragraph [ref=e68]: Enterprise-grade outbound for leadership teams that value disciplined qualification, response quality, and conversion integrity.
+        - generic [ref=e69]:
+          - generic [ref=e71]:
+            - strong [ref=e72]: AGENCIES
+            - generic [ref=e73]: Outbound support
+          - generic [ref=e75]:
+            - strong [ref=e76]: CONSULTANTS
+            - generic [ref=e77]: Booked meetings
+          - generic [ref=e79]:
+            - strong [ref=e80]: SERVICE TEAMS
+            - generic [ref=e81]: Cleaner pipeline
+          - generic [ref=e83]:
+            - strong [ref=e84]: NEW MARKETS
+            - generic [ref=e85]: Region-ready outreach
+      - generic [ref=e87]:
+        - generic [ref=e88]:
+          - paragraph [ref=e89]: Positioning
+          - heading "For teams that want revenue conversations, not filler leads." [level=2] [ref=e90]
+          - paragraph [ref=e91]: The story stays centered on qualified outreach, booked appointments, and lower wasted acquisition spend — with enough polish to feel premium, not pushy.
+        - list [ref=e92]:
+          - listitem [ref=e93]: Trusted by 100+ companies
+          - listitem [ref=e94]: Qualification-first appointment setting
+          - listitem [ref=e95]: Multi-channel outreach (email, LinkedIn, calls, WhatsApp)
+          - listitem [ref=e96]: Targeting + CRM automation built for conversion
+      - generic [ref=e99]:
+        - paragraph [ref=e100]: Offer clarity
+        - heading "Why polished outbound beats generic lead gen." [level=2] [ref=e101]
+        - paragraph [ref=e102]: Buyers want relevance, a clear next step, and proof the process is under control. We build outreach that earns replies and routes qualified conversations into your calendar with less friction.
+        - generic [ref=e103]:
+          - generic [ref=e104]:
+            - generic [ref=e106]: Without structure
+            - generic [ref=e107]: With AcquireVista
+          - generic [ref=e108]:
+            - strong [ref=e110]: Buyer impression
+            - generic [ref=e111]: Generic growth promise
+            - generic [ref=e112]: Focused outbound credibility
+          - generic [ref=e113]:
+            - strong [ref=e115]: Lead quality story
+            - generic [ref=e116]: More leads, low clarity
+            - generic [ref=e117]: Qualified conversations first
+          - generic [ref=e118]:
+            - strong [ref=e120]: Sales handoff logic
+            - generic [ref=e121]: Unclear process
+            - generic [ref=e122]: Appointment-ready routing
+          - generic [ref=e123]:
+            - strong [ref=e125]: Regional fit
+            - generic [ref=e126]: Loose global messaging
+            - generic [ref=e127]: Sober US/AU-ready tone
+      - generic [ref=e129]:
+        - generic [ref=e130]:
+          - paragraph [ref=e131]: Core services
+          - heading "Six services that move buyers from interest to booked call." [level=2] [ref=e132]
+          - paragraph [ref=e133]: From ICP sharpening and appointment setting to campaign optimization and market entry — each service works independently or as part of a premium outbound system.
+        - generic [ref=e134]:
+          - article [ref=e135]:
+            - generic [ref=e136]:
+              - paragraph [ref=e142]: Service
+              - heading "Outbound Lead Generation (B2B)" [level=3] [ref=e143]
+            - paragraph [ref=e144]: Targeting, lists, and outreach built for decision-makers — with quality controls from first touch to booked call.
+          - article [ref=e145]:
+            - generic [ref=e146]:
+              - paragraph [ref=e150]: Service
+              - heading "Appointment Setting" [level=3] [ref=e151]
+            - paragraph [ref=e152]: Qualification-led meeting workflows that protect your calendar and improve show rates.
+          - article [ref=e153]:
+            - generic [ref=e154]:
+              - paragraph [ref=e158]: Service
+              - heading "Cold Email + LinkedIn Outreach" [level=3] [ref=e159]
+            - paragraph [ref=e160]: Messaging and sequencing that create real replies — tuned for relevance and clear next steps.
+          - article [ref=e161]:
+            - generic [ref=e162]:
+              - paragraph [ref=e166]: Service
+              - heading "Cold Calling + WhatsApp Follow‑up" [level=3] [ref=e167]
+            - paragraph [ref=e168]: Human follow-up that turns interest into scheduled conversations, with respectful cadence and intent checks.
+          - article [ref=e169]:
+            - generic [ref=e170]:
+              - paragraph [ref=e178]: Service
+              - heading "Data Enrichment + List Building" [level=3] [ref=e179]
+            - paragraph [ref=e180]: Enrichment and segmentation that keep outreach focused on real buyer profiles and clean contactability.
+          - article [ref=e181]:
+            - generic [ref=e182]:
+              - paragraph [ref=e190]: Service
+              - heading "CRM Setup + Automation" [level=3] [ref=e191]
+            - paragraph [ref=e192]: Routing, tagging, and follow-up automation so nothing drops after the first reply.
+      - generic [ref=e194]:
+        - generic [ref=e195]:
+          - paragraph [ref=e196]: How it works
+          - heading "A premium four-step model for qualified pipeline growth." [level=2] [ref=e197]
+          - paragraph [ref=e198]: Targeting, messaging, outreach, and reporting stay aligned across every campaign phase — from first contact to booked appointment.
+        - generic [ref=e199]:
+          - article [ref=e200]:
+            - generic [ref=e206]: "01"
+            - heading "Target the right buyers" [level=3] [ref=e207]
+            - paragraph [ref=e208]: We start with ICP clarity, account filters, and outreach segments that match your sales reality.
+          - article [ref=e209]:
+            - generic [ref=e213]: "02"
+            - heading "Build the message architecture" [level=3] [ref=e214]
+            - paragraph [ref=e215]: Every campaign is structured around relevance, buying signals, and qualification criteria.
+          - article [ref=e216]:
+            - generic [ref=e224]: "03"
+            - heading "Run outreach with discipline" [level=3] [ref=e225]
+            - paragraph [ref=e226]: Lead generation, follow-up, and appointment workflows stay aligned to response quality and scheduling intent.
+          - article [ref=e227]:
+            - generic [ref=e230]: "04"
+            - heading "Report what actually matters" [level=3] [ref=e231]
+            - paragraph [ref=e232]: You see progress through conversation quality, booked meetings, and pipeline-ready momentum.
+      - generic [ref=e234]:
+        - generic [ref=e235]:
+          - paragraph [ref=e236]: Who it is for
+          - heading "Best suited to teams that sell through direct outreach and booked meetings." [level=2] [ref=e237]
+        - generic [ref=e238]:
+          - heading "Priority fit profiles" [level=3] [ref=e239]
+          - list [ref=e240]:
+            - listitem [ref=e241]: Small and mid-sized enterprises
+            - listitem [ref=e242]: Agencies and service businesses
+            - listitem [ref=e243]: Consulting and professional services
+            - listitem [ref=e244]: B2B offers with longer sales cycles
+            - listitem [ref=e245]: Outbound-led sales teams
+            - listitem [ref=e246]: Teams expanding into new regions
+      - generic [ref=e248]:
+        - generic [ref=e249]:
+          - generic [ref=e250]:
+            - paragraph [ref=e251]: Why AcquireVista
+            - heading "Outbound with a premium commercial logic behind it." [level=2] [ref=e252]
+            - paragraph [ref=e253]: Better targeting, cleaner qualification, and structured pipeline discipline — each principle translates directly to lower acquisition cost, stronger sales efficiency, and better callbacks.
+          - figure [ref=e254]:
+            - img "Growth vectors and outbound strategy" [ref=e255]
+        - generic [ref=e256]:
+          - article [ref=e257]:
+            - heading "Qualification beats vanity volume" [level=3] [ref=e262]
+            - paragraph [ref=e263]: We prioritize fit and intent so your team spends time on real opportunities — not busywork.
+          - article [ref=e264]:
+            - heading "Every campaign needs an operating model" [level=3] [ref=e272]
+            - paragraph [ref=e273]: Targeting, messaging, follow-up, and handoff rules work together so results are repeatable.
+          - article [ref=e274]:
+            - heading "Outbound should improve CAC discipline" [level=3] [ref=e279]
+            - paragraph [ref=e280]: The point is not more activity. The point is lower waste, clearer fit, and stronger sales efficiency.
+      - generic [ref=e282]:
+        - generic [ref=e283]:
+          - paragraph [ref=e284]: Free growth audit
+          - heading "Start with a free outbound growth audit." [level=2] [ref=e285]
+          - paragraph [ref=e286]: We’ll review your targeting, messaging, follow-up, and handoff to show where replies are leaking out of the pipeline — and where the fastest wins sit.
+        - generic [ref=e287]:
+          - article [ref=e288]:
+            - paragraph [ref=e292]: Proof framework
+            - heading "Qualified conversations" [level=3] [ref=e293]
+            - paragraph [ref=e294]: Real buyer conversations that match your ICP — tracked by reply intent, qualification fit, and downstream opportunity quality.
+          - article [ref=e295]:
+            - paragraph [ref=e299]: Proof framework
+            - heading "Booked appointments" [level=3] [ref=e300]
+            - paragraph [ref=e301]: Meeting acceptance rates, show rates, and calendar-qualified leads — the metrics that matter when your goal is revenue conversations, not click-throughs.
+          - article [ref=e302]:
+            - paragraph [ref=e307]: Proof framework
+            - heading "Pipeline efficiency" [level=3] [ref=e308]
+            - paragraph [ref=e309]: Cost-per-meeting, opportunity rate, and CAC improvement — the full commercial picture for buyers who want outbound that pays for itself.
+      - generic [ref=e312]:
+        - generic [ref=e313]:
+          - paragraph [ref=e314]: Lead magnet
+          - heading "Request a diagnostic assessment of your outbound performance." [level=2] [ref=e315]
+          - paragraph [ref=e316]: The assessment identifies highest-impact optimizations across targeting, messaging, follow-up, and handoff before you commit to full engagement.
+        - link "Start Your Free Audit" [ref=e317] [cursor=pointer]:
+          - /url: /contact/#sample-form
+      - generic [ref=e319]:
+        - generic [ref=e320]:
+          - paragraph [ref=e321]: FAQ
+          - heading "Common questions before booking a call or requesting the audit." [level=2] [ref=e322]
+          - paragraph [ref=e323]: Honest answers to what most B2B buyers want to know before they decide whether to reach out.
+        - generic [ref=e324]:
+          - group [ref=e325]:
+            - generic "Who is AcquireVista best suited for? +" [ref=e326] [cursor=pointer]
+          - group [ref=e327]:
+            - generic "Is this only lead generation? +" [ref=e328] [cursor=pointer]
+          - group [ref=e329]:
+            - generic "Do you support B2C campaigns as well? +" [ref=e330] [cursor=pointer]
+          - group [ref=e331]:
+            - generic "How quickly do you respond to enquiries? +" [ref=e332] [cursor=pointer]
+          - group [ref=e333]:
+            - generic "What is included in the free outbound growth audit? +" [ref=e334] [cursor=pointer]
+          - group [ref=e335]:
+            - generic "What do you need to get started? +" [ref=e336] [cursor=pointer]
+      - generic [ref=e338]:
+        - generic [ref=e339]:
+          - paragraph [ref=e340]: Start the conversation
+          - heading "Tell us your growth objective and we’ll map the highest-priority path to qualified meetings." [level=2] [ref=e341]
+          - paragraph [ref=e342]: Share your target market and monthly meeting goals. We'll respond within one business day with a specific scope and recommended next step.
+          - generic [ref=e343]:
+            - generic [ref=e344]:
+              - text: Company website
+              - textbox [ref=e345]
+            - generic [ref=e346]:
+              - generic [ref=e347]:
+                - generic [ref=e348]: Full name
+                - textbox "Full name" [ref=e349]
+              - generic [ref=e350]:
+                - generic [ref=e351]: Work email
+                - textbox "Work email" [ref=e352]
+              - generic [ref=e353]:
+                - generic [ref=e354]: Company name
+                - textbox "Company name" [ref=e355]
+              - generic [ref=e356]:
+                - generic [ref=e357]: Phone or WhatsApp
+                - textbox "Phone or WhatsApp" [ref=e358]
+              - generic [ref=e359]:
+                - generic [ref=e360]: Service interest
+                - combobox "Service interest" [ref=e361]:
+                  - option "Select a service" [selected]
+                  - option "Appointment Setting"
+                  - option "Outbound Lead Generation (B2B)"
+                  - option "Cold Email + LinkedIn Outreach"
+                  - option "Cold Calling + WhatsApp Follow‑up"
+                  - option "Data Enrichment + List Building"
+                  - option "CRM Setup + Automation"
+              - generic [ref=e362]:
+                - generic [ref=e363]: Monthly lead goal
+                - textbox "Monthly lead goal" [ref=e364]:
+                  - /placeholder: "Example: 20 qualified calls / month"
+              - generic [ref=e365]:
+                - generic [ref=e366]: What are you trying to achieve?
+                - textbox "What are you trying to achieve?" [ref=e367]
+            - generic [ref=e368]:
+              - button "Schedule Consultation" [ref=e369]
+              - link "Review service scope →" [ref=e370] [cursor=pointer]:
+                - /url: /services/
+          - paragraph [ref=e371]
+        - complementary [ref=e372]:
+          - figure [ref=e373]:
+            - img "Original consultation scene showing a laptop-led campaign review during a client call." [ref=e374]
+          - paragraph [ref=e375]: Why reach out
+          - heading "Get a clear answer within one business day." [level=3] [ref=e376]
+          - paragraph [ref=e377]:
+            - link "hello@acquirevista.com" [ref=e378] [cursor=pointer]:
+              - /url: mailto:hello@acquirevista.com
+            - link "+91 840 991 5471" [ref=e380] [cursor=pointer]:
+              - /url: tel:+918409915471
+          - list [ref=e381]:
+            - listitem [ref=e382]: Serving teams across the UK, US, Australia, India, and Europe with remote-first delivery.
+            - listitem [ref=e383]: Multi-channel outreach across email, LinkedIn, calling, and WhatsApp follow-up.
+            - listitem [ref=e384]: Most new enquiries receive a response within one business day.
+    - contentinfo [ref=e385]:
+      - generic [ref=e387]:
+        - generic [ref=e388]:
+          - link "AcquireVista Qualified outbound growth systems" [ref=e389] [cursor=pointer]:
+            - /url: /
+            - generic [ref=e391]:
+              - strong [ref=e392]: AcquireVista
+              - generic [ref=e393]: Qualified outbound growth systems
+          - paragraph [ref=e394]: AcquireVista is a qualified outbound growth partner for B2B-focused teams across the UK, US, Australia, India, and Europe. Built around conversations that convert.
+        - generic [ref=e395]:
+          - generic [ref=e396]:
+            - link "Services" [ref=e397] [cursor=pointer]:
+              - /url: /services/
+            - link "About" [ref=e398] [cursor=pointer]:
+              - /url: /about/
+            - link "Contact" [ref=e399] [cursor=pointer]:
+              - /url: /contact/
+            - link "Privacy" [ref=e400] [cursor=pointer]:
+              - /url: /privacy/
+          - generic [ref=e401]:
+            - link "hello@acquirevista.com" [ref=e402] [cursor=pointer]:
+              - /url: mailto:hello@acquirevista.com
+            - link "+91 840 991 5471" [ref=e404] [cursor=pointer]:
+              - /url: tel:+918409915471
+  - button "Back to top": ↑

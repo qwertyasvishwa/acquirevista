@@ -1,0 +1,155 @@
+- generic [active] [ref=e1]:
+  - link "Skip to content" [ref=e2] [cursor=pointer]:
+    - /url: "#main"
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - link "AcquireVista home" [ref=e5] [cursor=pointer]:
+        - /url: /
+        - generic [ref=e7]:
+          - text: AcquireVista
+          - generic [ref=e8]: Qualified outbound systems
+      - generic [ref=e9]:
+        - navigation "Primary" [ref=e10]:
+          - link "Home" [ref=e11] [cursor=pointer]:
+            - /url: /
+          - link "Services" [ref=e12] [cursor=pointer]:
+            - /url: /services/
+          - link "About" [ref=e13] [cursor=pointer]:
+            - /url: /about/
+          - link "Contact" [ref=e14] [cursor=pointer]:
+            - /url: /contact/
+        - link "Request consultation" [ref=e15] [cursor=pointer]:
+          - /url: /contact/#consultation-form
+  - main [ref=e16]:
+    - region [ref=e17]:
+      - img "Abstract 3D pipeline system with converging green conversion paths" [ref=e18]
+      - generic [ref=e19]:
+        - paragraph [ref=e20]: Qualification-first outbound
+        - heading "Turn targeted outreach into conversations worth having." [level=1] [ref=e21]
+        - paragraph [ref=e22]: AcquireVista gives B2B revenue teams, agencies, and consultants a clearer system for targeting, messaging, qualification, and handoff.
+        - generic [ref=e23]:
+          - link "Request consultation" [ref=e24] [cursor=pointer]:
+            - /url: /contact/#consultation-form
+          - link "Explore services" [ref=e25] [cursor=pointer]:
+            - /url: /services/
+        - list "Key principles" [ref=e26]:
+          - listitem [ref=e27]: Built around buyer fit
+          - listitem [ref=e28]: Clear qualification rules
+          - listitem [ref=e29]: Clean sales handoff
+    - generic [ref=e31]:
+      - generic [ref=e32]:
+        - paragraph [ref=e33]: Commercial clarity
+        - heading "An outbound operating system, not more activity for activity’s sake." [level=2] [ref=e34]
+        - paragraph [ref=e35]: "Every program starts with the signal that matters: who is worth reaching, why they should care, and what qualifies a conversation for your calendar."
+        - list [ref=e36]:
+          - listitem [ref=e37]: ICP, account, and buyer-role alignment
+          - listitem [ref=e38]: Message architecture that earns relevant replies
+          - listitem [ref=e39]: Handoff rules your sales team can trust
+      - figure [ref=e40]:
+        - img "Abstract 3D orchestration system with coordinated green signal paths" [ref=e41]
+    - generic [ref=e43]:
+      - generic [ref=e44]:
+        - generic [ref=e45]:
+          - paragraph [ref=e46]: Built for two operating realities
+          - heading "A shared standard for better-fit conversations." [level=2] [ref=e47]
+        - paragraph [ref=e48]: The system stays the same; the operating model flexes around the team carrying it forward.
+      - generic [ref=e49]:
+        - article [ref=e50]:
+          - heading "Revenue teams" [level=3] [ref=e51]
+          - paragraph [ref=e52]: For founders and sales leaders who need disciplined pipeline creation without handing their calendar to low-fit demand.
+          - link "Request a consultation →" [ref=e53] [cursor=pointer]:
+            - /url: /contact/#consultation-form
+        - article [ref=e54]:
+          - heading "Agencies & consultants" [level=3] [ref=e55]
+          - paragraph [ref=e56]: For delivery partners who want a dependable outbound layer, clearer qualification, and a polished client-facing process.
+          - link "See the service system →" [ref=e57] [cursor=pointer]:
+            - /url: /services/
+    - generic [ref=e59]:
+      - paragraph [ref=e60]: What good outbound protects
+      - generic [ref=e61]:
+        - heading "Buyer attention, sales time, and the quality of the next conversation." [level=2] [ref=e62]
+        - paragraph [ref=e63]: We focus on the operating signals that tell you whether outreach is creating the right kind of momentum.
+      - generic [ref=e64]:
+        - article [ref=e65]:
+          - heading "Relevant response" [level=3] [ref=e66]
+          - paragraph [ref=e67]: Messaging is built to create useful buyer signals, not vanity engagement.
+        - article [ref=e68]:
+          - heading "Qualified meeting" [level=3] [ref=e69]
+          - paragraph [ref=e70]: Each booking is governed by fit, intent, and a clear reason to continue.
+        - article [ref=e71]:
+          - heading "Clean handoff" [level=3] [ref=e72]
+          - paragraph [ref=e73]: Sales receives enough context to move forward with confidence.
+    - generic [ref=e75]:
+      - generic [ref=e76]:
+        - generic [ref=e77]:
+          - paragraph [ref=e78]: Core services
+          - heading "Where the system becomes execution." [level=2] [ref=e79]
+        - link "View all services →" [ref=e80] [cursor=pointer]:
+          - /url: /services/
+      - generic [ref=e81]:
+        - article [ref=e82]:
+          - paragraph [ref=e83]: "01"
+          - heading "Targeting & enrichment" [level=3] [ref=e84]
+          - paragraph [ref=e85]: Build account lists and buyer segments around real commercial fit.
+          - link "Learn more" [ref=e86] [cursor=pointer]:
+            - /url: /services/
+        - article [ref=e87]:
+          - paragraph [ref=e88]: "02"
+          - heading "Multichannel outreach" [level=3] [ref=e89]
+          - paragraph [ref=e90]: Coordinate email, LinkedIn, calling, and follow-up around relevance.
+          - link "Learn more" [ref=e91] [cursor=pointer]:
+            - /url: /services/
+        - article [ref=e92]:
+          - paragraph [ref=e93]: "03"
+          - heading "Appointment & CRM flow" [level=3] [ref=e94]
+          - paragraph [ref=e95]: Turn qualified signals into a useful sales handoff and accountable next step.
+          - link "Learn more" [ref=e96] [cursor=pointer]:
+            - /url: /services/
+    - generic [ref=e98]:
+      - generic [ref=e99]:
+        - paragraph [ref=e100]: Start with clarity
+        - heading "Bring us the offer, buyer, and market you want to reach." [level=2] [ref=e101]
+        - paragraph [ref=e102]: We’ll help map the most useful next step for your outbound motion.
+      - link "Request consultation" [ref=e103] [cursor=pointer]:
+        - /url: /contact/#consultation-form
+    - generic [ref=e105]:
+      - generic [ref=e106]:
+        - paragraph [ref=e107]: Questions
+        - heading "Make the first conversation useful." [level=2] [ref=e108]
+        - paragraph [ref=e109]: A few direct answers before you decide whether to reach out.
+      - generic [ref=e110]:
+        - group [ref=e111]:
+          - generic "Who is AcquireVista for? +" [ref=e112] [cursor=pointer]
+        - group [ref=e113]:
+          - generic "Is this only lead generation? +" [ref=e114] [cursor=pointer]
+        - group [ref=e115]:
+          - generic "What is the free audit? +" [ref=e116] [cursor=pointer]
+        - group [ref=e117]:
+          - generic "What should we bring to the first conversation? +" [ref=e118] [cursor=pointer]
+  - contentinfo [ref=e119]:
+    - generic [ref=e120]:
+      - generic [ref=e121]:
+        - link "AcquireVista Qualified outbound systems" [ref=e122] [cursor=pointer]:
+          - /url: /
+          - generic [ref=e124]:
+            - text: AcquireVista
+            - generic [ref=e125]: Qualified outbound systems
+        - paragraph [ref=e126]: Qualification-first outbound systems for B2B revenue teams, agencies, and consultants.
+      - generic [ref=e127]:
+        - navigation "Footer" [ref=e128]:
+          - link "Services" [ref=e129] [cursor=pointer]:
+            - /url: /services/
+          - link "About" [ref=e130] [cursor=pointer]:
+            - /url: /about/
+          - link "Contact" [ref=e131] [cursor=pointer]:
+            - /url: /contact/
+          - link "Privacy" [ref=e132] [cursor=pointer]:
+            - /url: /privacy/
+        - paragraph [ref=e133]:
+          - link "hello@acquirevista.com" [ref=e134] [cursor=pointer]:
+            - /url: mailto:hello@acquirevista.com
+          - text: ·
+          - link "+91 840 991 5471" [ref=e135] [cursor=pointer]:
+            - /url: tel:+918409915471
+          - text: © 2026 AcquireVista
+  - button "Back to top": ↑

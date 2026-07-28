@@ -1,0 +1,132 @@
+- generic [ref=f5e2]:
+  - banner [ref=f5e3]:
+    - link [ref=f5e5] [cursor=pointer]:
+      - /url: /
+      - strong [ref=f5e8]: AcquireVista
+  - main [ref=f5e9]:
+    - generic [ref=f5e11]:
+      - generic [ref=f5e12]:
+        - paragraph [ref=f5e13]: Contact
+        - heading "Tell us what you sell — we’ll map the fastest path to better callbacks." [level=2] [ref=f5e14]
+        - paragraph [ref=f5e15]: Share your target customer, markets, and monthly goal. We typically respond within one business day with a recommended scope and next steps.
+        - generic [ref=f5e16]:
+          - generic [ref=f5e17]:
+            - text: Company website
+            - textbox [ref=f5e18]
+          - generic [ref=f5e19]:
+            - generic [ref=f5e20]:
+              - generic [ref=f5e21]: Full name
+              - textbox "Full name" [ref=f5e22]
+            - generic [ref=f5e23]:
+              - generic [ref=f5e24]: Work email
+              - textbox "Work email" [ref=f5e25]
+            - generic [ref=f5e26]:
+              - generic [ref=f5e27]: Company name
+              - textbox "Company name" [ref=f5e28]
+            - generic [ref=f5e29]:
+              - generic [ref=f5e30]: Phone or WhatsApp
+              - textbox "Phone or WhatsApp" [ref=f5e31]
+            - generic [ref=f5e32]:
+              - generic [ref=f5e33]: Service interest
+              - combobox "Service interest" [ref=f5e34]:
+                - option "Select a service" [selected]
+                - option "Appointment Setting"
+                - option "Outbound Lead Generation (B2B)"
+                - option "Cold Email + LinkedIn Outreach"
+                - option "Cold Calling + WhatsApp Follow‑up"
+                - option "Data Enrichment + List Building"
+                - option "CRM Setup + Automation"
+            - generic [ref=f5e35]:
+              - generic [ref=f5e36]: Monthly lead goal
+              - textbox "Monthly lead goal" [ref=f5e37]:
+                - /placeholder: "Example: 20 qualified calls / month"
+            - generic [ref=f5e38]:
+              - generic [ref=f5e39]: Engagement context
+              - textbox "Engagement context" [ref=f5e40]
+          - generic [ref=f5e41]:
+            - button "Schedule Consultation" [ref=f5e42]
+            - link "Request a free audit instead →" [ref=f5e43] [cursor=pointer]:
+              - /url: "#sample-form"
+        - paragraph [ref=f5e44]
+      - complementary [ref=f5e45]:
+        - figure [ref=f5e46]:
+          - img "Original consultation scene showing a laptop-led campaign review during a client call." [ref=f5e47]
+        - paragraph [ref=f5e48]: Contact details
+        - heading "Prefer email or phone? Use what’s easiest — we’ll respond quickly." [level=3] [ref=f5e49]
+        - paragraph [ref=f5e50]:
+          - link "hello@acquirevista.com" [ref=f5e51] [cursor=pointer]:
+            - /url: mailto:hello@acquirevista.com
+          - link "+91 840 991 5471" [ref=f5e53] [cursor=pointer]:
+            - /url: tel:+918409915471
+        - list [ref=f5e54]:
+          - listitem [ref=f5e55]: Serving teams across the UK, US, Australia, India, and Europe with remote-first delivery.
+          - listitem [ref=f5e56]: Multi-channel outreach across email, LinkedIn, calling, and WhatsApp follow-up.
+          - listitem [ref=f5e57]: Most new enquiries receive a response within one business day.
+    - generic [ref=f5e59]:
+      - generic [ref=f5e60]:
+        - paragraph [ref=f5e61]: Free audit
+        - heading "Request your free outbound growth audit." [level=2] [ref=f5e62]
+        - paragraph [ref=f5e63]: If you’re evaluating fit, we can share the exact gaps we’d fix first — targeting, messaging, follow-up, or handoff. We typically reply within one business day.
+        - generic [ref=f5e64]:
+          - generic [ref=f5e65]:
+            - text: Company website
+            - textbox [ref=f5e66]
+          - generic [ref=f5e67]:
+            - generic [ref=f5e68]:
+              - generic [ref=f5e69]: Full name
+              - textbox "Full name" [ref=f5e70]
+            - generic [ref=f5e71]:
+              - generic [ref=f5e72]: Work email
+              - textbox "Work email" [ref=f5e73]
+            - generic [ref=f5e74]:
+              - generic [ref=f5e75]: Company name
+              - textbox "Company name" [ref=f5e76]
+            - generic [ref=f5e77]:
+              - generic [ref=f5e78]: What do you want?
+              - combobox "What do you want?" [ref=f5e79]:
+                - option "Choose one" [selected]
+                - option "Free Growth Audit"
+                - option "Callback"
+                - option "Consultation"
+            - generic [ref=f5e80]:
+              - generic [ref=f5e81]: Context
+              - textbox "Context" [ref=f5e82]
+          - button "Start Your Free Audit" [ref=f5e84]
+        - paragraph [ref=f5e85]
+      - complementary [ref=f5e86]:
+        - paragraph [ref=f5e87]: What happens next
+        - heading "A clear, low-friction process." [level=3] [ref=f5e88]
+        - list [ref=f5e89]:
+          - listitem [ref=f5e90]: We review your offer, ICP, and target markets.
+          - listitem [ref=f5e91]: We recommend a channel mix and a first sprint scope.
+          - listitem [ref=f5e92]: If requested, we share a sample audit summary with context.
+          - listitem [ref=f5e93]: We align on qualification rules and schedule consultation.
+  - contentinfo [ref=f5e94]:
+    - generic [ref=f5e96]:
+      - generic [ref=f5e97]:
+        - link [ref=f5e98] [cursor=pointer]:
+          - /url: /
+          - strong [ref=f5e101]: AcquireVista
+        - paragraph [ref=f5e102]: The contact experience is optimized for enquiries, qualification, and future CRM-style routing — so conversations don’t get lost after the first reply.
+      - generic [ref=f5e103]:
+        - generic [ref=f5e104]:
+          - link "Services" [ref=f5e105] [cursor=pointer]:
+            - /url: /services/
+          - link "About" [ref=f5e106] [cursor=pointer]:
+            - /url: /about/
+          - link "Contact" [ref=f5e107] [cursor=pointer]:
+            - /url: /contact/
+          - link "Privacy" [ref=f5e108] [cursor=pointer]:
+            - /url: /privacy/
+        - generic [ref=f5e109]:
+          - link "hello@acquirevista.com" [ref=f5e110] [cursor=pointer]:
+            - /url: mailto:hello@acquirevista.com
+          - link "+91 840 991 5471" [ref=f5e112] [cursor=pointer]:
+            - /url: tel:+918409915471
+  - generic [ref=f5e113]:
+    - link "Schedule Consultation" [ref=f5e114] [cursor=pointer]:
+      - /url: /contact/#consultation-form
+    - link "Start Your Free Audit" [ref=f5e115] [cursor=pointer]:
+      - /url: /#sample-leads
+    - link "Consult via WhatsApp" [ref=f5e116] [cursor=pointer]:
+      - /url: /contact/#consultation-form
